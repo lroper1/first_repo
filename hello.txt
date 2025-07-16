@@ -3,3 +3,5 @@ Hello everyone its my first repo to practice git
 Im now editing this file!
 
 How do you make potatos im hungry send help
+
+Lucky energy drinks taste odd
